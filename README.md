@@ -19,3 +19,11 @@ This analysis was conducted on the Healthcare dataset from Kaggle (Healthcare Da
 ### 13. Discharge_Date: The date on which the patient was discharged from the healthcare facility, based on the admission date and a random number of days within a realistic range.
 ### 14. Medication: Identifies a medication prescribed or administered to the patient during their admission. Examples include "Aspirin," "Ibuprofen," "Penicillin," "Paracetamol," and "Lipitor."
 ### 15. Test_Results: Describes the results of a medical test conducted during the patient's admission. Possible values include "Normal," "Abnormal," or "Inconclusive," indicating the outcome of the test.
+
+
+Count of Patients by Blood Type Between Ages 20 to 45
+![Screenshot 2024-05-20 002840](https://github.com/krspriya/Healthcare-Data-Analysis/assets/98299075/727e6df1-6744-4474-baff-d4e7855b239f)
+
+
+
+
