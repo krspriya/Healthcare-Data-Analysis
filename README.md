@@ -37,4 +37,15 @@ Count of Universal Blood Donors and Universal Blood Receivers
 
 
 
+ The average, minimum and maximum billing amount for each insurance provider
 
+
+![Screenshot 2024-05-20 003416](https://github.com/krspriya/Healthcare-Data-Analysis/assets/98299075/46de911e-c560-43b1-b542-9713dd5f729e)
+
+
+
+
+A new column that categorizes patients as Inconclusive, Normal, or Abnormal based on their medical condition.
+
+
+![Screenshot 2024-05-20 003452](https://github.com/krspriya/Healthcare-Data-Analysis/assets/98299075/eef7feee-fa4a-40a9-b4d5-01b4d29cb77e)
