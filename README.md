@@ -29,3 +29,12 @@ Count of Patients by Blood Type Between Ages 20 to 45
 
 
 
+Count of Universal Blood Donors and Universal Blood Receivers
+
+
+![Screenshot 2024-05-20 002923](https://github.com/krspriya/Healthcare-Data-Analysis/assets/98299075/c196b875-3146-4061-9b0e-da937fb03089)
+
+
+
+
+
