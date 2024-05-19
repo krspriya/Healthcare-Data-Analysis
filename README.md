@@ -21,7 +21,9 @@ This analysis was conducted on the Healthcare dataset from Kaggle (Healthcare Da
 ### 15. Test_Results: Describes the results of a medical test conducted during the patient's admission. Possible values include "Normal," "Abnormal," or "Inconclusive," indicating the outcome of the test.
 
 
-###Count of Patients by Blood Type Between Ages 20 to 45
+Count of Patients by Blood Type Between Ages 20 to 45
+
+
 ![Screenshot 2024-05-20 002840](https://github.com/krspriya/Healthcare-Data-Analysis/assets/98299075/727e6df1-6744-4474-baff-d4e7855b239f)
 
 
